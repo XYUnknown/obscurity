@@ -1,1 +1,30 @@
-theme: jekyll-theme-hacker
+# theme: jekyll-theme-hacker
+remote_theme: XYUnknown/forty-jekyll-theme
+
+title: Obscurity
+subtitle: A chaos state of life
+#email: 
+description: Random murmurs
+#baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+#url: # the base hostname & protocol for your site
+author: X.Y.
+#street_address: 1234 Somewhere Road
+city: Somewhere in oblivion
+#state: TN
+#zip_code: 55555
+#country: United Kingdom
+#phone: (716) 555-5555
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+github_url: https://github.com/XYUnknown
+twitter_url: https://twitter.com/x_null_y
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
