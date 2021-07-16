@@ -1,5 +1,5 @@
 ---
-layout: allposts
+layout: allphotos
 title: Photos and Sketches
 landing-title: 'Photos and Sketches'
 nav-menu: true
