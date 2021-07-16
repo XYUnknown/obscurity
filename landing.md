@@ -28,7 +28,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>All posts</h3>
+					<h3>All Posts</h3>
 				</header>
 				<p>Sometimes I write.</p>
 				<ul class="actions">
@@ -44,11 +44,11 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Photos</h3>
+					<h3>Photos and Sketches</h3>
 				</header>
 				<p>Pictures that I consider as memorable </p>
 				<ul class="actions">
-					<li><a href="elements.html" class="button">Learn more</a></li>
+					<li><a href="photos.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>

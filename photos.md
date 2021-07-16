@@ -1,6 +1,6 @@
 ---
 layout: allposts
-title: All Posts
+title: Photos and Sketche
 landing-title: 'All posts'
 nav-menu: true
 description: null
