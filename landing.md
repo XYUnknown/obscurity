@@ -46,7 +46,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Photos and Sketches</h3>
 				</header>
-				<p>Pictures that I consider as memorable </p>
+				<p>Pictures which are memorable. </p>
 				<ul class="actions">
 					<li><a href="photos.html" class="button">Learn more</a></li>
 				</ul>
